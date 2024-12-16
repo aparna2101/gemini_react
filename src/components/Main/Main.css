@@ -40,7 +40,6 @@
 .main .cards{
     display: grid;
     grid-template-columns: repeat(auto-fill,minmax(180px,1fr));
-    gap: 15px;
     padding: 20px;
 }
 .main .card{
@@ -154,7 +153,7 @@
      background: linear-gradient(to right,#9ed7ff,#ffffff,#9ed7ff);
      background-size: 800px 50px;
      height: 20px;
-     animation: loader 3s infinite linear;
+     animation: loader 2s infinite linear;
 }
 @keyframes loader {
     0%{

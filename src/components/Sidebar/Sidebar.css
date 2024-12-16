@@ -27,7 +27,7 @@
     cursor: pointer;
 }
 .sidebar .new-chat:hover {
-    background-color:rgb(176, 209, 244); /* Darken on hover */
+    background-color:rgb(176, 209, 244); 
     cursor: pointer;
   }
 .sidebar .recent{
